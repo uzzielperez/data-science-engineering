@@ -110,19 +110,19 @@
 
 ## Part 3: Big Data and SQL
 
-    ## Introduction to SQL
+    Introduction to SQL
         Duration: 1 Week
         Basics of SQL
         Database design and normalization
         Querying databases
 
-    ## Big Data with Hadoop
+    Big Data with Hadoop
         Duration: 2 Weeks
         Hadoop ecosystem and HDFS
         MapReduce programming model
         Introduction to tools: Hive, Pig, HBase
 
-    ## Big Data Processing with Apache Spark
+    Big Data Processing with Apache Spark
         Duration: 2 Weeks
         Spark architecture and RDDs
         DataFrames and Spark SQL
