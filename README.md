@@ -130,13 +130,13 @@
 
 ## Part 4: Practical Applications and Projects
 
-    ### Capstone Project
+    Capstone Project
         Duration: 3 Weeks
         End-to-end ML project implementation
-    ### Ethics in AI
+    Ethics in AI
         Duration: 1 Week
         Responsible AI practices
-    ### Deployment and Scaling
+    Deployment and Scaling
         Duration: 2 Weeks
         Model deployment techniques
         Scaling models in production
