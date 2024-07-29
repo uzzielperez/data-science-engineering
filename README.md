@@ -2,6 +2,8 @@
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="30">](https://www.buymeacoffee.com/uzzielperej)
 
+Inspired by Aurelien Geron's machine learning [book](https://github.com/ageron/handson-ml3)
+
 ## Introduction
 
     Duration: 1 Week
