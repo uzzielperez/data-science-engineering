@@ -9,7 +9,7 @@ Inspired by Aurelien Geron's machine learning [book](https://github.com/ageron/h
     Duration: 1 Week
     Overview of Machine Learning (ML) and Deep Learning (DL)
     Tools and libraries: Python, Jupyter Notebooks, Scikit-Learn, Keras, TensorFlow
-    Setup: GitHub, Google Colab, GPU
+    Setup: GitHub, Google Colab, GPU, Code Editor 
 
 ## Part 1: Machine Learning Fundamentals
 
